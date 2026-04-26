@@ -18,3 +18,6 @@ Python Full Stack Developer passionate about building scalable web applications 
 - 📫 How to reach me **kannathalm893@gmail.com**
 
 - ⚡ Fun fact **I love learning new technologies**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,aws,mysql,git" />
+</p>
