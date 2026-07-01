@@ -1,7 +1,7 @@
 # KannathalM
-Python Full Stack Developer passionate about building scalable web applications and exploring AWS Cloud technologies.
+Python Full Stack Developer passionate about building scalable web applications and exploring DevOps & AWS Cloud technologies.
 <h1 align="center">Hi 👋, I'm Kannathal M</h1>
-<h3 align="center">Python Full Stack Developer | Exploring Cloud Technologies (AWS)</h3>
+<h3 align="center">Software Engineer | Python Full Stack | DevOps and AWS </h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=kannathalm&label=Profile%20views&color=0e75b6&style=flat" />
