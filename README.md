@@ -1,4 +1,4 @@
-# KannathalM
+# Kannathal M
 Python Full Stack Developer passionate about building scalable web applications and exploring DevOps & AWS Cloud technologies.
 <h1 align="center">Hi 👋, I'm Kannathal M</h1>
 <h3 align="center">Software Engineer | Python Full Stack | DevOps and AWS </h3>
